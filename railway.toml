@@ -1,0 +1,5 @@
+[build]
+nixpacksPlan = "python"
+
+[start]
+cmd = "python app.py"
